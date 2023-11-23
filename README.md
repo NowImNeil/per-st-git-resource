@@ -5,4 +5,3 @@ Using Windows
 
 ## copy right
 
-copy right mdf
